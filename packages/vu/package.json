@@ -1,0 +1,41 @@
+{
+  "name": "vu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "@types/node": "^20.3.1",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "@vueuse/core": "^10.1.2",
+    "ant-design-vue": "^3.2.20",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.63.3",
+    "typescript": "^5.0.2",
+    "unplugin-auto-import": "^0.16.4",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.3.9",
+    "vue-tsc": "^1.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xulei131401/vu-admin.git",
+    "directory": "packages/vu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xulei131401/vu-admin/issues"
+  },
+  "homepage": "https://github.com/xulei131401/vu-admin#readme"
+}

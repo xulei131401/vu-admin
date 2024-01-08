@@ -1,0 +1,22 @@
+{
+  "name": "vu-admin",
+  "version": "1.0.0",
+  "description": "vue3+ant-design-vue开发的通用后台模板",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xulei131401/vu-admin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xulei131401/vu-admin/issues"
+  },
+  "homepage": "https://github.com/xulei131401/vu-admin#readme"
+}
